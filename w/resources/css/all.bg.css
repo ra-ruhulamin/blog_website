@@ -1,0 +1,20 @@
+
+
+.post_feature_img_bg{
+    background-image: url(https://vromonguide.com/wp-content/uploads/debotakhum-bandarban-370x230.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.category_img_bg{
+    background-image:  url(https://vromonguide.com/wp-content/uploads/bisnakandi-panthumai-770x420.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+}
+
+.tr_bg{
+    background-image:  url(https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+}
